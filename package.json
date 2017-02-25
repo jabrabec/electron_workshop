@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "electron": "^1.4.15",
+    "monaco-editor": "^0.8.1",
     "monaco-loader": "^0.8.1"
   }
 }
